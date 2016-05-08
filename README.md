@@ -1,4 +1,5 @@
 # smartCharger
-A desktop app to keep track of battery info and send corresponding command to a hardware device to stop mobile devices from over-charging and start charging when the device is out of battery.
+A computer program that keeps strack of battery percentage and send HTTP requests to Raspberry Pi to stop laptops from over-charging and start charging when the device is out of battery.
 
-This project started on Aug 01, 2015
+
+Updated on May 8, 2016
