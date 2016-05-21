@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryController", "BatteryController\BatteryController.csproj", "{62E7C508-9D39-48CF-BA14-60FCA66211BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E7C508-9D39-48CF-BA14-60FCA66211BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E7C508-9D39-48CF-BA14-60FCA66211BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E7C508-9D39-48CF-BA14-60FCA66211BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E7C508-9D39-48CF-BA14-60FCA66211BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs40
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BatteryController\\BatteryController.csproj
+		SccProjectName1 = BatteryController
+		SccLocalPath1 = BatteryController
+	EndGlobalSection
+EndGlobal
